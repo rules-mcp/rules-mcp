@@ -1,0 +1,14 @@
+{
+  "servers": {
+    "rules-mcp": {
+      "type": "stdio",
+      "command": "node",
+      "args": [
+        "/Users/aaronccasanova/projects/aacc/npm/rules-mcp/bin/server.js",
+        "/Users/aaronccasanova/projects/aacc/npm/rules-mcp/example-rules"
+      ]
+      //  "command": "npx",
+      //  "args": ["-y", "github:aaronccasanova/rules-mcp"]
+    }
+  }
+}
